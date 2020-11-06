@@ -17,12 +17,15 @@
 <div>
   <p>
 git clone https://github.com/cantixcrew/WP-Content-Injection<br>
+    
 cd WP-Content-Injection<br>
+    
 pip install requests<br>
 
 python2 wp-contentinject.py 2 [list]
 </p>
 </div>
+
 
 <div>
   instagram: https://www.instagram.com/cantixcrewfamily<br>
