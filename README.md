@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/cantixcrew/WP-Content-Injection"><img src="https://github.com/cantixcrew/WP-Content-Injecrion/blob/main/img/Syreena_1.jpg" alt="WP Content Injection"></a>
+  <a href="https://github.com/cantixcrew/WP-Content-Injection"><img src="https://github.com/cantixcrew/WP-Content-Injecrion/blob/main/img/Screenshot_20201106-223818~2.png" alt="WP Content Injection"></a>
 
 </h1>
 
@@ -15,7 +15,9 @@
 ![Follow](https://img.shields.io/twitter/follow/nenghaxor?label=Follow&style=social)
 
 ### install:
-git clone 
+git clone https://github.com/cantixcrew/WP-Content-Injection
+cd WP-Content-Injection
+pip install requests
 
 <div>
   instagram: https://www.instagram.com/cantixcrewfamily<br>
